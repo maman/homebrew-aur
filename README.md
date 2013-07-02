@@ -8,13 +8,13 @@ This repositories contains backported Formulae from [Archlinux AUR](http://aur.a
 How do I install these formulae?
 ================================
 
-Use `brew tap maman/my-own-homebrew` and then `brew install <formula>`.  
+Use `brew tap maman/aur` and then `brew install <formula>`.  
 
-If the formula conflicts with mxcl's master or another tap, you can `brew install maman/my-own-brew/<formula>`.  
+If the formula conflicts with mxcl's master or another tap, you can `brew install maman/aur/<formula>`.  
 
 Also, you can install these formulae individually via URL:  
 
-    brew install https://raw.github.com/maman/my-own-brew/master/<formula>.rb
+    brew install https://raw.github.com/maman/homebrew-aur/master/<formula>.rb
 
 More Backports ?
 =================
